@@ -1,0 +1,5 @@
+# ignore all pics in this folder
+*
+
+# preserve this folder
+!.gitignore
